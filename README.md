@@ -1,1 +1,1 @@
-# genai-for-data-analytics
+# 생성형AI를 활용한 데이터 분석
